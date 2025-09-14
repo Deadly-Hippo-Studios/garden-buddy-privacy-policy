@@ -20,6 +20,8 @@ You may choose to allow or deny tracking when prompted by your device. If you de
 
 Third-party advertising partners may access limited information such as device identifiers, ad performance data, and general usage information in order to serve ads and measure their effectiveness. No personally identifiable information is collected by the Service Provider.
 
+Please see the Google [AdMob website](https://developers.google.com/admob/ios/privacy/data-disclosure) for additional information.
+
 **What are my opt-out rights?**
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
